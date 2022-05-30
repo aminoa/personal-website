@@ -3,6 +3,12 @@ a, a:hover, a:focus, a:active {
   color: inherit;
 }
 
+a:hover {
+    color: black;
+    transition: 0.2s;
+}
+
+
 li {
   margin-top: 1rem;
 }
@@ -31,5 +37,6 @@ li {
   font-size: 1.1rem;
   list-style-type: none;
   padding-left: 0;
-  color: #3068ad
+  color: #3068ad;
+  font-weight: 600;
 }
