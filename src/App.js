@@ -12,7 +12,7 @@ function App() {
 
         <h2 className="project_title">Interesting Projects</h2>
         <ul className="project_list">
-          <li><a href="https://github.com/aminoa/ac8">ac8: Chip-8 Emulator</a></li>
+          <li><a href="https://github.com/aminoa/chip8">Chip-8 Emulator</a></li>
           <li><a href="https://bluebird747.itch.io/dac"> DAC: Direct Air Capture Plant Exploration Game </a></li>
           <li><a href="https://github.com/aminoa/appl"> appl: API for NYU Engage</a></li>
           <li><a href="https://github.com/bkRoad/bkRoad"> bkRoad: Book Management Website</a></li>
