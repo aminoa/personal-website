@@ -30,9 +30,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup Pages
+#       - name: Setup Pages
       - name: Deploy react app to github pages
-      - uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
+        uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
 
 #         uses: actions/configure-pages@v2
 #       - name: Upload artifact
