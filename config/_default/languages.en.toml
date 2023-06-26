@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Aneesh Maganti"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[author]
+  name = "Aneesh Maganti"
+  image = "img/author.jpg"
+  headline = "Currently a CS senior at NYU. Within CS, I enjoy emulation, ML, and occasionally web dev. I also like creating stories."
+  bio = ""
+  links = [
+    { email = "asmaganti@gmail.com" },
+    { github = "https://github.com/aminoa" },
+  ]
