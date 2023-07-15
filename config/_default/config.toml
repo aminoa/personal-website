@@ -9,10 +9,12 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
 [module.imports]
 path = "github.com/hugo-mods/icons"
 
-
+[params]
+favicon = "favicon.ico"

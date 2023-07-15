@@ -11,8 +11,8 @@ A variety of projects that I've scripted up over the years. If you want to see m
 - 🚧 [Dot Matrix - Game Boy Emulator](https://github.com/aminoa/dot-matrix) <br>
 A WIP C++ GB emulator.
 
-- 🚧 [NYU Syllabi](https://github.com/aminoa/tandon-syllabi) <br>
-A repository to host different syllabi for classes across different NYU schools. Currently being remade from original Tandon Syllabi repo.
+- [NYU Syllabi](https://github.com/aminoa/nyu-syllabi) <br>
+A repository to host different syllabi for classes across different NYU schools. 
 
 - [Sentitweet](https://github.com/aminoa/sentitweet) <br>
 A tweet generator that uses the PPLM library and visualization via the D3.js framework. Collab with Jacob.
