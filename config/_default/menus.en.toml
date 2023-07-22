@@ -25,6 +25,11 @@
   pageRef = "research"
   weight = 10
 
+[[main]]
+  name = "Resume"
+  url = "../Resume.pdf"
+  weight = 10
+
 # [[main]]
 #   identifier = "search"
 #   weight = 99
