@@ -8,7 +8,7 @@ draft: false
 A variety of projects that I've scripted up over the years. If you want to see more, check out my [GitHub](https://github.com/aminoa). Enjoy!
 {{< /lead >}}
 
-- 🚧 [Dot Matrix - Game Boy Emulator](https://github.com/aminoa/dot-matrix) <br>
+- [Dot Matrix - Game Boy Emulator](https://github.com/aminoa/dot-matrix) <br>
 A WIP C++ GB emulator.
 
 - [NYU Syllabi](https://github.com/aminoa/nyu-syllabi) <br>
