@@ -9,7 +9,7 @@ A variety of projects that I've scripted up over the years. If you want to see m
 {{< /lead >}}
 
 - [Dot Matrix - Game Boy Emulator](https://github.com/aminoa/dot-matrix) <br>
-A WIP C++ GB emulator.
+A C++ GB emulator that implements the CPU (passes most of Blarg's tests'), memory, and has partial PPU support using SDL for rendering.
 
 - [NYU Syllabi](https://github.com/aminoa/nyu-syllabi) <br>
 A repository to host different syllabi for classes across different NYU schools. 
