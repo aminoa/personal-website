@@ -8,7 +8,7 @@ Stories I've written/made. I try to branch out into different mediums, genres, a
 {{< /lead >}}
 
 - [Cell](/cell.pkg) <br>
-"I'm trying to test my inputs on my dualshock 3, but it keeps crashing..."; CSAW 2023 challenge - controller testing homebrew with story on OtherOS (python script for verification currently not hosted). Assistance from Allen.
+"I'm trying to test my inputs on my dualshock 3, but it keeps crashing..."; CSAW 2023 challenge - controller testing homebrew with selected quoted subtext on OtherOS (python script for verification currently not hosted). Assistance from Allen.
 
 - [Sasha](/Sasha.pdf) <br>
 Film script written for Understanding Story. Collab with DJ.
