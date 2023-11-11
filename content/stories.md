@@ -7,6 +7,9 @@ draft: false
 Stories I've written/made. I try to branch out into different mediums, genres, and structures.
 {{< /lead >}}
 
+- [Cell](./cell.pkg) <br>
+I'm trying to test my inputs on my dualshock 3, but it keeps crashing... - CSAW 2023 challenge
+
 - [Sasha](/Sasha.pdf) <br>
 Film script written for Understanding Story. Collab with DJ.
 
